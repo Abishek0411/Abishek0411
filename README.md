@@ -1,4 +1,4 @@
-Hi, I’m @Abishek0411
+Hi, I’m Abishek
 
 Pre-Final year Computer Science Engineering student at SRMIST
 
