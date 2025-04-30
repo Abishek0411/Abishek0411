@@ -1,7 +1,8 @@
 <!-- Retro Terminal Font Vibe -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=500&lines=Hola+Amigo%2C+I%27m+Abishek!;Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://<your-username>.github.io/<your-repository-name>/shooting-animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
+</p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
