@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://<your-username>.github.io/<your-repository-name>/shooting-animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
+  <img src="https://abishek0411.github.io/svg-animations/shooting-animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
 </p>
 
 <h3 align="center">A curious mind, coding one feature at a time 🚀</h3>
