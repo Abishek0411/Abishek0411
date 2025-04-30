@@ -1,6 +1,10 @@
 <!-- Retro Terminal Font Vibe -->
+<p align="center">
+  <img src="https://abishek0411.github.io/svg-animations/shooting-animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=500&lines=Hola+Amigo%2C+I%27m+Abishek!;Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
