@@ -1,10 +1,10 @@
 <!-- Retro Terminal Font Vibe -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=435&lines=Hola+Amigo%2C+I%27m+Abishek!;Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AFF00&center=true&vCenter=true&width=500&lines=Hola+Amigo%2C+I%27m+Abishek!;Welcome+to+my+GitHub+Terminal..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://www.nerdfonts.com/assets/img/logos/archlinux-icon.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" />
 </p>
@@ -22,9 +22,9 @@ I'm a CS undergrad passionate about:
  - Dockerizing everything 🐳
  - Studying Transformers (the ML kind 🤖)
 
-Hobbies: 🏎️ Driving | 🏋️‍♂️ Fitness | 🎮 Retro Gaming | 🧠 Learning LLMs
+Hobbies: 🎾 Sports | 🏋️‍♂️ Fitness | 🎮 Retro Gaming | 🧠 Learning LLMs
 
-🖥️  Languages:    JavaScript | TypeScript | Python | C++
+🖥️  Languages:    Python | C++ | JavaScript | TypeScript | Java
 🛠️  Dev Tools:    VSCode | Git | Postman | Insomnia
 ⚙️  Frameworks:   React | Node.js | Express | EJS
 📦  DevOps Stack: Docker | GitHub Actions | AWS | Linux | MongoDB
@@ -49,7 +49,7 @@ Linux nerdbox 5.16.0-rc3-amd64 #1 SMP
 "Knows how to debug with chai ☕ and memes 😂"
 "Gym Rat. Code Freak. Retro Geek."
 
-> ping linkedin.com/in/yourlinkedin
-> mail abishek.dev@gmail.com
-> github.com/yourusername
+> ping linkedin.com/in/abishek-s-r
+> mail abishekram0411@gmail.com
+> github.com/Abishek0411
 
