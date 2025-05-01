@@ -1,6 +1,6 @@
 <!-- Retro Terminal Font Vibe -->
 <p align="center">
-  <img src="https://abishek0411.github.io/svg-animations/shooting-animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
+  <img src="https://abishek0411.github.io/svg-animation/shooting_animation.svg" alt="Gun Animation with Bullet Trail and Glitchy Text" />
 </p>
 
 <h1 align="center">
