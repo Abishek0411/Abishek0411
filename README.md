@@ -84,7 +84,7 @@ Hobbies: 🎾 Sports | 🏋️‍♂️ Fitness | 🎮 Retro Gaming | 🧠 Learn
    ↳ https://github.com/Abishek0411/Hriday-ECG-Tagging
 ```
 
-## 📈 GitHub Stats (Retro Theme)
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek0411&theme=chartreuse-dark&show_icons=true)
 
