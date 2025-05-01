@@ -25,31 +25,72 @@ I'm a CS undergrad passionate about:
  - Making cool UIs with React ⚛️
  - Dockerizing everything 🐳
  - Studying Transformers (the ML kind 🤖)
+ - Building AI-powered tools for health, skincare & racing 🧬
 
 Hobbies: 🎾 Sports | 🏋️‍♂️ Fitness | 🎮 Retro Gaming | 🧠 Learning LLMs
 
-🖥️  Languages:    Python | C++ | JavaScript | TypeScript | Java
-🛠️  Dev Tools:    VSCode | Git | Postman | Insomnia
-⚙️  Frameworks:   React | Node.js | Express | EJS
-📦  DevOps Stack: Docker | GitHub Actions | AWS | Linux | MongoDB
-
+🖥️  Languages:    Python | C++ | JavaScript | TypeScript | Java | C | Dart
+🧪  ML Tools:     TensorFlow | EfficientNet | OpenCV | PyTorch | SVM | LSTM
+🛠️  Dev Tools:    VSCode | Git | Postman | Insomnia | XAMPP | Figma | Android Studio | MongoDB | MySQL
+⚙️  Frameworks:   React | Node.js | Express | Flask | FastAPI | EJS | React Native | Flutter
+📦  DevOps Stack: Docker | CI/CD with GitHub Actions | AWS | Linux | Terraform | Kubernetes | Prometheus
+```
+```bash
+> ls projects/
 📝 BlogTok
    A multi-user blogging platform with CI/CD & Docker.
-   ↳ https://github.com/yourusername/blogtok
+   ↳ https://github.com/Abishek0411/blogtok
 
 🤖 PlasticDetectYOLO
    Real-time plastic detection in water bodies using YOLOv8.
-   ↳ https://github.com/yourusername/plastic-detect
+   ↳ https://github.com/Abishek0411/plastic-detect
 
 🔧 DevOps Demos
    Hands-on Docker + Kubernetes playground for students.
-   ↳ https://github.com/yourusername/devops-demos
+   ↳ https://github.com/Abishek0411/devops-demos
+
+🏎️ F1-ProR
+   LSTM-based race strategy prediction for Formula 1 using Ergast API.
+   ↳ https://github.com/Abishek0411/F1-Race-Strategy-Prediction
+
+💡 Skincare AI
+   AIoT acne recognition + skincare recommendation via smart mirror.
+   ↳ https://github.com/Abishek0411/Skincare-Analysis-AI-Server
+
+🏋️ FITSRM
+   A fitness app for inter-college activity tracking, built with React Native.
+   ↳ https://github.com/Abishek0411/Fitness_App_Frontend
+
+❤️ Hriday
+   React Native app to predict ECG health status using Wasserstein ML & SVM.
+   ↳ https://github.com/Abishek0411/Hriday-ECG-Tagging
 ```
 
-📈 GitHub Stats (Retro Theme)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abishek0411&theme=chartreuse-dark&show_icons=true" /> <br/> <img src="https://streak-stats.demolab.com?user=Abishek0411&theme=matrix&hide_border=true" /> </p>
+## 📈 GitHub Stats (Retro Theme)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abishek0411&theme=chartreuse-dark&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abishek0411&theme=matrix&hide_border=true)
 
 ```bash
+> cat internship.txt
+Research Intern – UPES University (Jun–Aug 2024)
+  🔬 Created 'Hriday' app for ECG analysis using React Native & Python Flask backend
+  🧠 Built ML model with Wasserstein distance & SVM
+  🌐 Learned server deployment, port forwarding, APK packaging
+
+> cat certifications.txt
+🎓 NPTEL
+ - Programming in Java (IIT KGP)
+ - Database Management Systems
+
+☁️ AWS Academy
+ - Cloud Foundations 🟢
+ - Cloud Architecting 🟣
+
+📈 Coursera
+ - Supervised Machine Learning: Regression and Classification
+
 > uname -a
 Linux nerdbox 5.16.0-rc3-amd64 #1 SMP
 
@@ -62,3 +103,7 @@ Linux nerdbox 5.16.0-rc3-amd64 #1 SMP
 > mail abishekram0411@gmail.com
 > github.com/Abishek0411
 ```
+
+
+
+
