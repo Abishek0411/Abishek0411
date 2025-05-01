@@ -44,11 +44,12 @@ Hobbies: 🎾 Sports | 🏋️‍♂️ Fitness | 🎮 Retro Gaming | 🧠 Learn
 🔧 DevOps Demos
    Hands-on Docker + Kubernetes playground for students.
    ↳ https://github.com/yourusername/devops-demos
-'''
+```
+
 📈 GitHub Stats (Retro Theme)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abishek0411&theme=chartreuse-dark&show_icons=true" /> <br/> <img src="https://streak-stats.demolab.com?user=Abishek0411&theme=matrix&hide_border=true" /> </p>
 
-'''bash
+```bash
 > uname -a
 Linux nerdbox 5.16.0-rc3-amd64 #1 SMP
 
@@ -60,4 +61,4 @@ Linux nerdbox 5.16.0-rc3-amd64 #1 SMP
 > ping linkedin.com/in/abishek-s-r
 > mail abishekram0411@gmail.com
 > github.com/Abishek0411
-
+```
